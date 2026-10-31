@@ -1,0 +1,89 @@
+{
+  "code": "SUSEONG",
+  "title": "SMASH SUSEONG",
+  "school": "수성대",
+  "fullName": "수성대학교",
+  "campusName": "수성대학교",
+  "tagline": "수성대를 부셔 (시험기간 스트레스 해소)",
+  "description": "수성대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 수성대학교 3D 화면과 SMASH SUSEONG 제목",
+  "url": "https://hong-iron.github.io/SMASH-SUSEONG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 305396501
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.8555718,
+        128.6491523
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 북동쪽 길 건너 공사장 위에 그려진 이름 없는 기록으로, 항공사진에는 짓고 있는 공사 현장만 보이고 학교 공식 건물 안내 10곳에도 없어 학교 건물로 확인되지 않습니다."
+    },
+    {
+      "at": [
+        35.8543715,
+        128.6468271
+      ],
+      "n": "기숙사",
+      "why": "항공사진에 없음 — 테니스장 서쪽 끝을 확대해 보면 초록색으로 칠한 바닥만 있고 그림자도 벽도 없어, 옛 대구산업정보대학 기숙사 기록만 남고 건물은 서 있지 않습니다."
+    }
+  ],
+  "look": {
+    "본관": {
+      "style": "brick",
+      "wall": "#7c5a5c",
+      "glass": "#486168",
+      "frame": "#c8c8cc"
+    },
+    "경복관": {
+      "style": "stone",
+      "wall": "#b4b8b4",
+      "glass": "#3a4448",
+      "frame": "#7e5862"
+    },
+    "강산관": {
+      "style": "stone",
+      "wall": "#bcbcc0",
+      "glass": "#2b464e",
+      "frame": "#8f9297"
+    },
+    "안나관": {
+      "style": "ribbon",
+      "wall": "#7a5052",
+      "glass": "#3c464c",
+      "frame": "#d0d2d4"
+    },
+    "신비관": {
+      "style": "stone",
+      "wall": "#d0d4d6",
+      "glass": "#3c4a52",
+      "frame": "#7c5a52"
+    },
+    "성요셉관": {
+      "style": "stone",
+      "wall": "#cdd2d4",
+      "glass": "#2b4759",
+      "frame": "#5d6870",
+      "roof": "#7a4d5c",
+      "hip": true
+    },
+    "리오바관": {
+      "style": "stone",
+      "wall": "#cdc6c8",
+      "glass": "#3a4650",
+      "frame": "#e0dcdc"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
