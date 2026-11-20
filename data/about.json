@@ -1,0 +1,34 @@
+{
+ "region": "대구 수성구",
+ "nameEn": "Suseong University",
+ "added": "2026-11-01T02:27",
+ "rank": 298,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KNU-DONGIN",
+   "campus": "경북대학교 동인캠퍼스",
+   "km": 4.2
+  },
+  {
+   "code": "DNUE",
+   "campus": "대구교육대학교",
+   "km": 5.3
+  },
+  {
+   "code": "YJC",
+   "campus": "영진전문대학교 복현캠퍼스",
+   "km": 5.3
+  },
+  {
+   "code": "KNU",
+   "campus": "경북대학교 대구캠퍼스",
+   "km": 5.3
+  },
+  {
+   "code": "YNC",
+   "campus": "영남이공대학교",
+   "km": 5.8
+  }
+ ]
+}
